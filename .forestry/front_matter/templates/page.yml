@@ -20,6 +20,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/members.md
 - src/pages/ipsum.md
 - src/pages/generic.md
 - src/pages/elements.md
